@@ -1,3 +1,3 @@
 def push(array, string)
-  array.push(string)
+  return array.push(string)
 end
